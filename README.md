@@ -6,7 +6,7 @@ This repository is designed to expose program code and network datasets from the
 # Baseline model 
 The replication code of the following paper work is used in the baseline model approach, as follows:
 
-### GAE and VGAE Model
+### GAE and VGAE Model.
 ```
 @inproceedings{kipf2016nips,
 	title={Variational graph auto-encoders},
@@ -16,7 +16,7 @@ The replication code of the following paper work is used in the baseline model a
 }
 ```
 
-### ARGAE and ARVGAE Model
+### ARGAE and ARVGAE Model.
 ```
 @inproceedings{pan2018adversarially,
   title={Adversarially Regularized Graph Autoencoder for Graph Embedding.},
@@ -28,7 +28,7 @@ The replication code of the following paper work is used in the baseline model a
 ```
 
 
-### Graphite-GAE and Graphite-VAGE Model in [this repository](https://github.com/ermongroup/graphite)
+### Graphite-GAE and Graphite-VAGE Model.
 ```
 @inproceedings{grover2019graphite,
 	title={Graphite: Iterative generative modeling of graphs},
@@ -42,7 +42,7 @@ The replication code of the following paper work is used in the baseline model a
 
 
 
-### FastGAE and FastVGAE Model in [this repository](https://github.com/deezer/fastgae)
+### FastGAE and FastVGAE Model.
 ```
 @article{salha2021fastgae,
   title={FastGAE: Scalable graph autoencoders with stochastic subgraph decoding},
@@ -55,7 +55,7 @@ The replication code of the following paper work is used in the baseline model a
 }
 ```
 
-### LinearGAE and LinearVGAE Model
+### LinearGAE and LinearVGAE Model.
 ```
 @inproceedings{salha2020simple,
   title={Simple and Effective Graph Autoencoders with One-Hop Linear Models},
