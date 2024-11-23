@@ -42,7 +42,7 @@ The replication code of the following paper work is used in the baseline model a
 
 
 
-### FastGAE and FastVGAE Model
+### ** FastGAE and FastVGAE Model in [this repository](https://github.com/deezer/fastgae)
 ```
 @article{salha2021fastgae,
   title={FastGAE: Scalable graph autoencoders with stochastic subgraph decoding},
@@ -54,3 +54,14 @@ The replication code of the following paper work is used in the baseline model a
   publisher={Elsevier}
 }
 ```
+
+### LinearGAE and LinearVGAE Model
+```
+@inproceedings{salha2020simple,
+  title={Simple and Effective Graph Autoencoders with One-Hop Linear Models},
+  author={Salha, Guillaume and Hennequin, Romain and Vazirgiannis, Michalis},
+  booktitle={European Conference on Machine Learning and Principles \\ and Practice of Knowledge Discovery in Databases},
+  year={2020}
+}
+```
+
