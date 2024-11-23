@@ -28,7 +28,7 @@ The replication code of the following paper work is used in the baseline model a
 ```
 
 
-### Graphite-GAE and Graphite-VAGE Model
+### Graphite-GAE and Graphite-VAGE Model in [this repository](https://github.com/ermongroup/graphite)
 ```
 @inproceedings{grover2019graphite,
 	title={Graphite: Iterative generative modeling of graphs},
@@ -42,7 +42,7 @@ The replication code of the following paper work is used in the baseline model a
 
 
 
-### ** FastGAE and FastVGAE Model in [this repository](https://github.com/deezer/fastgae)
+### FastGAE and FastVGAE Model in [this repository](https://github.com/deezer/fastgae)
 ```
 @article{salha2021fastgae,
   title={FastGAE: Scalable graph autoencoders with stochastic subgraph decoding},
